@@ -66,9 +66,7 @@ Employee-Management-System-Database/
 Guru Pradeep
 
 ---
-## Conclusion
-This project demonstrates practical knowledge of database design and SQL query implementation using SQL Server. 
-It helps in understanding real-time employee data management concepts and relational database operations.
+
 
 
 
